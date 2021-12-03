@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Wonderful Garut</string>
+    <string name="destinations_name">Nama Destinasi</string>
+    <string name="detail">Detail</string>
+    <string name="about">Tentang</string>
+    <string name="action_about">About</string>
+    <string name="about_author">Tentang</string>
+    <string name="author_name">Galih Muhammad Ramdan</string>
+    <string name="author_email">galihmramdan@gmail.com</string>
+    <string name="author_desc">Mahasiswa jurusan teknik informatika yang memiliki ketertarikan terhadap perkembangan teknologi &amp; industri kreatif. Mencari banyak pengalaman hidup baru dan menciptakan dampak bagi masyarakat.</string>
+    <string name="social_media_caption">Hit me up!</string>
+    <string name="destination_name">Nama Destinasi</string>
+    <string name="destination_detail">Detail</string>
+    <string name="caption_location">Lokasi</string>
+    <string name="destination_location">Destination Location</string>
+    <string name="rating">Rating</string>
+    <string name="destination_rating">Destination Rating</string>
+    <string name="github">Github</string>
+    <string name="instagram">Instagram</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="img_detail">Gambar Destinasi</string>
+    <string name="img_splash_screen">Image Splash Screen</string>
+</resources>
