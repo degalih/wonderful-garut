@@ -4,22 +4,26 @@ plugins {
 }
 
 android {
-    compileSdk 31
+    compileSdk 33
 
     defaultConfig {
-        applicationId "com.degalabs.wonderfulgarut"
-        minSdk 21
-        targetSdk 31
-        versionCode 1
-        versionName "1.0"
+        applicationId "com.galihmramdan.wonderfulgarut"
+        minSdk 31
+        targetSdk 33
+        versionCode 3
+        versionName "1.0.2"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
     buildTypes {
         release {
+            debuggable false
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            debuggable false
         }
     }
     compileOptions {
